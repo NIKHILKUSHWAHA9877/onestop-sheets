@@ -1,11 +1,8 @@
 // Storage
-let collectedSheetDB = [];  //Contains all SheetDB
+  //Contains all SheetDB
 let sheetDB = [];
 
-{
-    let addSheetBtn = document.querySelector(".sheet-add-icon");
-    addSheetBtn.click();
-}
+
 
 // for (let i = 0; i < rows; i++) {
 //     let sheetRow = [];
